@@ -1,5 +1,5 @@
-# UIP
-用户寻址协议
+# FDS
+FDS是好友寻址系统(FriendNameSystem)
 
 ### 用户查找
 
